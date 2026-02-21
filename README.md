@@ -88,11 +88,5 @@ Security and Portability
 - This project uses mysqli with raw queries. If deploying beyond demo/educational use, consider input sanitization and prepared statements.
 - Case sensitivity: Some files use mixed-case table and column names. On Linux/MariaDB with case-sensitive identifiers, align naming consistently or adjust queries.
 
-Screenshots
-- Add screenshots to resources/ and embed them here to showcase the UI.
-
-License
-- No license file is provided. Add a LICENSE file (e.g., MIT) if you plan to open-source the project.
-
 Credits
 - Built as an educational project for warehouse/order management.
